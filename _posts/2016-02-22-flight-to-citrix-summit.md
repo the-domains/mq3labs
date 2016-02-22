@@ -1,14 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2016-02-22T02:40:04.472Z'
+datePublished: '2016-02-22T02:40:58.175Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: Flight to Citrix Summit
-dateModified: '2016-02-22T02:39:23.810Z'
+dateModified: '2016-02-22T02:40:46.368Z'
 sourcePath: _posts/2016-02-22-flight-to-citrix-summit.md
 published: true
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
