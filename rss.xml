@@ -4,7 +4,7 @@
         <description><![CDATA[MQ3 Labs]]></description>
         <link>http://mq3labs.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 22:10:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 23:34:51 GMT</lastBuildDate>
         <atom:link href="http://mq3labs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[XenMobile - Mobile Device Management (MDM)]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.citrix.com/content/citrix/en_us/products/xendesktop/form/wwwb0116xd4beyondviewwxdwp.html</link>
             <guid isPermaLink="false">cf2e2324-533f-4491-9af9-c394c5297588</guid>
             <pubDate>Mon, 22 Feb 2016 01:31:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[XenApp Best Practice #4: The Right Experience | Citrix Blogs]]></title>
+            <description><![CDATA[<article><h1>XenApp Best Practice #4: The Right Experience | Citrix Blogs</h1><p>Over the years, I've done quite a few wood working projects, like building a coffee table, end table, entertainment center, mudroom lockers, etc. Every project results in leftover pieces of wood. I dislike throwing perfectly good wood away, especially if it is large enough to make something.</p><img src="https://www.citrix.com/blogs/wp-content/uploads/2016/02/xenapp-experience2-1036x691.jpg"></article>]]></description>
+            <link>https://www.citrix.com/blogs/2016/02/18/xenapp-best-practice-4-the-right-experience/</link>
+            <guid isPermaLink="false">a1311714-ec95-4465-a13e-e0f54200407c</guid>
+            <pubDate>Mon, 22 Feb 2016 23:33:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Flight to Citrix Summit]]></title>
