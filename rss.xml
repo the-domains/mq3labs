@@ -4,8 +4,15 @@
         <description><![CDATA[MQ3 Labs]]></description>
         <link>http://mq3labs.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 02:55:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 22:10:53 GMT</lastBuildDate>
         <atom:link href="http://mq3labs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[XenMobile - Mobile Device Management (MDM)]]></title>
+            <description><![CDATA[<article><h1>XenMobile - Mobile Device Management (MDM)</h1><p>Citrix ShareFile integrates with XenMobile to allow employees to access, sync and securely share files from any device with people both inside and outside the organization. Offline access keeps productivity up even when on-the-go. IT maintains the control it needs to store data on-premises, in the cloud, or both.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d97c277463612d15f78a6649a6f94644e8cdbdec.jpg"></article>]]></description>
+            <link>https://www.citrix.com/products/xenmobile/overview.html</link>
+            <guid isPermaLink="false">f911bc70-c47f-485f-ada6-90608a2f8eb4</guid>
+            <pubDate>Mon, 22 Feb 2016 22:10:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Four Reasons To Go Beyond VMware Horizon with Citrix XenApp and XenDesktop]]></title>
             <description><![CDATA[<article><h1>Four Reasons To Go Beyond VMware Horizon with Citrix XenApp and XenDesktop</h1><p>Explore four reasons to go beyond the limitations of VMware Horizon with app and desktop virtualization solutions powered by Citrix XenApp and XenDesktop.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d5d63479078a5e60d0bbf4f5f434260675b9ba6.png"></article>]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[Flight to Citrix Summit]]></title>
-            <description><![CDATA[<article><h1>Flight to Citrix Summit</h1><p>How to get airline elite status without flying thousands of miles: http://tandl.me/1TzcdJm</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1228038499f37226beb6cc5e6f7df5ad4cb32e70.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Flight to Citrix Summit</h1><p>How to get airline elite status without flying thousands of miles: http://tandl.me/1TzcdJm</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/435eab4ab485b5917535717429ecfb55e5a662b2.jpg"></article>]]></description>
             <link>http://mq3labs.com/flight-to-citrix-summit/index.html</link>
             <guid isPermaLink="false">fd2c70cc-2499-48d9-ba30-530ff11f4e22</guid>
             <pubDate>Mon, 22 Feb 2016 02:40:58 GMT</pubDate>
