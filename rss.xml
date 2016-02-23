@@ -4,7 +4,7 @@
         <description><![CDATA[MQ3 Labs]]></description>
         <link>http://mq3labs.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 11:02:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 11:04:10 GMT</lastBuildDate>
         <atom:link href="http://mq3labs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[XenMobile - Mobile Device Management (MDM)]]></title>
@@ -22,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[MDM Software Solution - XenMobile Tech Info]]></title>
-            <description><![CDATA[<article><h1>MDM Software Solution - XenMobile Tech Info</h1><p>Using XenMobileTool for APNS Certificate Signing (8:47) Learn how to create, sign and install you APNS certificate in toXenMobile Device manager using the Citrix XenMobile tool.https://xenmobiletools.citrix.com</p><img src="https://i.ytimg.com/vi/SWdI3RQKkdo/maxresdefault.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>MDM Software Solution - XenMobile Tech Info</h1><p>Using XenMobileTool for APNS Certificate Signing (8:47) Learn how to create, sign and install you APNS certificate in toXenMobile Device manager using the Citrix XenMobile tool.https://xenmobiletools.citrix.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb02e983f5ec47bfb99cca83bbae5885166224a8.jpg"></article>]]></description>
             <link>https://www.citrix.com/products/xenmobile/tech-info.html</link>
             <guid isPermaLink="false">6a7e18c6-7ad4-4a66-8941-d6f9b7c761ba</guid>
             <pubDate>Tue, 23 Feb 2016 10:59:58 GMT</pubDate>
@@ -54,13 +54,6 @@
             <link>http://mq3labs.com/flight-to-citrix-summit/index.html</link>
             <guid isPermaLink="false">fd2c70cc-2499-48d9-ba30-530ff11f4e22</guid>
             <pubDate>Mon, 22 Feb 2016 02:40:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Citrix Delivering Next-Generation ADC for IoT | Citrix Blogs]]></title>
-            <description><![CDATA[<article><h1>Citrix Delivering Next-Generation ADC for IoT | Citrix Blogs</h1><p>According to a study by the GSMA (in partnership with Machina Research), it is projected that the number of total connected devices will reach 24 billion worldwide and the potential business impact will reach $4.5 trillion by 2020.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac30aeeeda84dcd1afc15348f4d7f457a42a9f49.png"></article>]]></description>
-            <link>https://www.citrix.com/blogs/2016/02/18/citrix-delivering-next-generation-adc-for-iot/</link>
-            <guid isPermaLink="false">f366810f-4055-46aa-abfb-31c9241e9028</guid>
-            <pubDate>Mon, 22 Feb 2016 01:43:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
