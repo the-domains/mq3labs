@@ -4,7 +4,7 @@
         <description><![CDATA[MQ3 Labs]]></description>
         <link>http://mq3labs.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 08:45:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 08:47:53 GMT</lastBuildDate>
         <atom:link href="http://mq3labs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[XenMobile - Mobile Device Management (MDM)]]></title>
@@ -21,8 +21,15 @@
             <pubDate>Mon, 22 Feb 2016 01:31:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[XenDesktop VDI Virtual Desktop Infrastructure]]></title>
+            <description><![CDATA[<article><h1>XenDesktop VDI Virtual Desktop Infrastructure</h1><p>XenDesktop delivers full Windows VDI as well as virtual apps to meet the demands of any use case, allowing employees to access their apps, desktops and data without the limitations of a traditional solution. XenDesktop on the unified FlexCast Management Architecture (FMA) platform is the only solution that is FIPS-compliant and Common Criteria certified to meet the highest security standards of regulated industries.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9076d587c4e10b2ad89a5e40bc15cf13258808e.png"></article>]]></description>
+            <link>https://www.citrix.com/products/xendesktop/overview.html</link>
+            <guid isPermaLink="false">a4258ed2-465f-426a-9b90-99abcefe8966</guid>
+            <pubDate>Tue, 23 Feb 2016 08:47:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[CloudBridge - WAN Virtualization and Optimization]]></title>
-            <description><![CDATA[<article><h1>CloudBridge - WAN Virtualization and Optimization</h1><p>Citrix CloudBridge delivers WAN optimization and seamless cloud connectivity for superior enterprise performance.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9076d587c4e10b2ad89a5e40bc15cf13258808e.png"></article>]]></description>
+            <description><![CDATA[<article><h1>CloudBridge - WAN Virtualization and Optimization</h1><p>Citrix CloudBridge delivers WAN optimization and seamless cloud connectivity for superior enterprise performance.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d5d63479078a5e60d0bbf4f5f434260675b9ba6.png"></article>]]></description>
             <link>https://www.citrix.com/products/cloudbridge/overview.html</link>
             <guid isPermaLink="false">2edf89d0-11d5-4aa9-813b-e1fc852aed28</guid>
             <pubDate>Tue, 23 Feb 2016 08:45:41 GMT</pubDate>
