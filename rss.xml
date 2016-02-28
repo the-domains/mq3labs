@@ -4,7 +4,7 @@
         <description><![CDATA[MQ3 Labs]]></description>
         <link>http://mq3labs.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 13:42:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2016 14:26:48 GMT</lastBuildDate>
         <atom:link href="http://mq3labs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[XenMobile - Mobile Device Management (MDM)]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.citrix.com/content/citrix/en_us/products/xendesktop/form/wwwb0116xd4beyondviewwxdwp.html</link>
             <guid isPermaLink="false">cf2e2324-533f-4491-9af9-c394c5297588</guid>
             <pubDate>Mon, 22 Feb 2016 01:31:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://www.citrix.com/content/citrix/en_us/news/citrix-in-the-news/feb-2016/fedtech--federal-agencies-turn-to-byod--mobile-devices-in-the-fi/_jcr_content/par/image.img.jpg/1456358728013.jpg">]]></description>
+            <link>http://mq3labs.com/f46ab040-7bda-4931-9a62-98d34c52fdec/index.html</link>
+            <guid isPermaLink="false">f46ab040-7bda-4931-9a62-98d34c52fdec</guid>
+            <pubDate>Sun, 28 Feb 2016 14:26:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NetScaler VPX Hits a New 100Gbps High! | Citrix Blogs]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.citrix.com/products/cloudbridge/overview.html</link>
             <guid isPermaLink="false">2edf89d0-11d5-4aa9-813b-e1fc852aed28</guid>
             <pubDate>Tue, 23 Feb 2016 08:45:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[XenApp Best Practice #4: The Right Experience | Citrix Blogs]]></title>
-            <description><![CDATA[<article><h1>XenApp Best Practice #4: The Right Experience | Citrix Blogs</h1><p>Over the years, I've done quite a few wood working projects, like building a coffee table, end table, entertainment center, mudroom lockers, etc. Every project results in leftover pieces of wood. I dislike throwing perfectly good wood away, especially if it is large enough to make something.</p><img src="https://www.citrix.com/blogs/wp-content/uploads/2016/02/xenapp-experience2-1036x691.jpg"></article>]]></description>
-            <link>https://www.citrix.com/blogs/2016/02/18/xenapp-best-practice-4-the-right-experience/</link>
-            <guid isPermaLink="false">a1311714-ec95-4465-a13e-e0f54200407c</guid>
-            <pubDate>Mon, 22 Feb 2016 23:33:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
