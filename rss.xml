@@ -4,7 +4,7 @@
         <description><![CDATA[MQ3 Labs]]></description>
         <link>http://mq3labs.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 13:37:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2016 13:42:17 GMT</lastBuildDate>
         <atom:link href="http://mq3labs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[XenMobile - Mobile Device Management (MDM)]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.citrix.com/content/citrix/en_us/products/xendesktop/form/wwwb0116xd4beyondviewwxdwp.html</link>
             <guid isPermaLink="false">cf2e2324-533f-4491-9af9-c394c5297588</guid>
             <pubDate>Mon, 22 Feb 2016 01:31:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NetScaler VPX Hits a New 100Gbps High! | Citrix Blogs]]></title>
+            <description><![CDATA[<article><h1>NetScaler VPX Hits a New 100Gbps High! | Citrix Blogs</h1><p>If NetScaler VPX were an opera singer, glassware would be shattering all around us right now. This week, we broke a new barrier -- err, glass -- we hit a new performance high with the virtual edition of NetScaler, the NetScaler VPX, that will resonate with large scale datacenter operators such as service providers, large enterprise and clouds making inroads with network function virtualization (NFV).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e30e18a2879a49fee32406ff2875639e8a6a445b.jpg"></article>]]></description>
+            <link>https://www.citrix.com/blogs/2016/02/18/netscaler-vpx-hits-a-new-100gbps-high/</link>
+            <guid isPermaLink="false">897dbdc8-a410-4a77-9e80-904a7e205b3b</guid>
+            <pubDate>Sun, 28 Feb 2016 13:41:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.citrix.com/blogs/2016/02/18/xenapp-best-practice-4-the-right-experience/</link>
             <guid isPermaLink="false">a1311714-ec95-4465-a13e-e0f54200407c</guid>
             <pubDate>Mon, 22 Feb 2016 23:33:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Flight to Citrix Summit]]></title>
-            <description><![CDATA[<article><h1>Flight to Citrix Summit</h1><p>How to get airline elite status without flying thousands of miles: http://tandl.me/1TzcdJm</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/435eab4ab485b5917535717429ecfb55e5a662b2.jpg"></article>]]></description>
-            <link>http://mq3labs.com/flight-to-citrix-summit/index.html</link>
-            <guid isPermaLink="false">fd2c70cc-2499-48d9-ba30-530ff11f4e22</guid>
-            <pubDate>Mon, 22 Feb 2016 02:40:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
