@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  name: Citrix.com
-  domain: www.citrix.com
-  url: 'https://www.citrix.com'
-  favicon: 'https://www.citrix.com/etc/designs/citrix/icon-favicon.png'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.citrix.com/products/xenmobile/overview.html'
+inLanguage: en
+starred: true
 keywords:
   - on-the-go
   - sharefile
@@ -18,19 +17,20 @@ keywords:
   - offline
   - storage
 description: 'Citrix ShareFile integrates with XenMobile to allow employees to access, sync and securely share files from any device with people both inside and outside the organization. Offline access keeps productivity up even when on-the-go. IT maintains the control it needs to store data on-premises, in the cloud, or both.'
-inLanguage: en
+datePublished: '2016-03-06T13:13:58.260Z'
+dateModified: '2016-03-06T13:13:50.496Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://www.citrix.com/products/xenmobile/overview.html'
 title: XenMobile - Mobile Device Management (MDM)
-datePublished: '2016-02-22T22:10:25.497Z'
-dateModified: '2016-02-22T22:10:06.043Z'
-inFeed: true
-hasPage: false
-inNav: false
-starred: true
-authors: []
 sourcePath: _posts/2016-02-22-xenmobile-mobile-device-management-mdm.md
 published: true
+authors: []
+publisher:
+  name: Citrix.com
+  domain: www.citrix.com
+  url: 'https://www.citrix.com'
+  favicon: 'https://www.citrix.com/etc/designs/citrix/icon-favicon.png'
 _context: 'http://schema.org'
 _type: MediaObject
 
